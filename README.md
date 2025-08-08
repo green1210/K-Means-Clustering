@@ -36,7 +36,7 @@ pip install pandas scikit-learn matplotlib seaborn openpyxl
 
 | Clustering | Graph |
 |------------------|-----------------|
-| ![](./screenshots/Clustering.png) | ![](./screenshots/Graph.png) |
+| ![](./screenshots/clustering.png) | ![](./screenshots/Graph.png) |
 
 ---
 
