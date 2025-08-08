@@ -50,5 +50,5 @@ python kmeans_model.py
 
 ## 📜 License
 
-This project is for educational purposes as part of the Codveda Internship.
+
 ---
