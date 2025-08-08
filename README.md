@@ -35,8 +35,8 @@ pip install pandas scikit-learn matplotlib seaborn openpyxl
 ## 🚀 Clone the repository
 ```
 git clone https://github.com/your-username/kmeans-iris.git
-cd kmeans_model
-python kmeans_pdf.py
+cd kmeans_clustering
+python kmeans_model.py
 ```
 ---
 
