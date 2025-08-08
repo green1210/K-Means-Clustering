@@ -30,7 +30,6 @@ Install dependencies with:
 ```bash
 pip install pandas scikit-learn matplotlib seaborn openpyxl
 ```
-
 ---
 
 ## 🚀 Clone the repository
