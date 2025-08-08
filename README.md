@@ -37,7 +37,6 @@ pip install pandas scikit-learn matplotlib seaborn openpyxl
 git clone https://github.com/your-username/kmeans-iris.git
 cd kmeans_model
 python kmeans_pdf.py
-
 ```
 ---
 
