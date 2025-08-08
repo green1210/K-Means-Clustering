@@ -34,7 +34,7 @@ pip install pandas scikit-learn matplotlib seaborn openpyxl
 
 ## 📸 Screenshots
 
-| Clustering | Graph |
+|  2D scatter plot | Elbow Method |
 |------------------|-----------------|
 | ![](./screenshots/clustering.png) | ![](./screenshots/Graph.png) |
 
