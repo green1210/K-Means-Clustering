@@ -32,6 +32,14 @@ pip install pandas scikit-learn matplotlib seaborn openpyxl
 ```
 ---
 
+## 📸 Screenshots
+
+| Clustering | Graph |
+|------------------|-----------------|
+| ![](./screenshots/Clustering.png) | ![](./screenshots/Graph.png) |
+
+---
+
 ## 🚀 Clone the repository
 ```
 git clone https://github.com/your-username/kmeans-iris.git
