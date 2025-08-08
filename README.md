@@ -13,7 +13,7 @@ The goal:
 ---
 
 ## 📂 Dataset
-**File:** `iris.xlsx`  
+**File:** `iris.csv`  
 **Features used:**
 - Sepal Length
 - Sepal Width
@@ -48,6 +48,7 @@ python kmeans_model.py
 ```
 ---
 
-📜 License
+## 📜 License
+
 This project is for educational purposes as part of the Codveda Internship.
 ---
